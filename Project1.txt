@@ -1,3 +1,4 @@
-feature1+added
-feature2+added
-feature3+added
+feature1+added+bugfix1
+feature2+added+bugfix1
+feature3+added+bugfix1
+
